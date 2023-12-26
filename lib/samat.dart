@@ -69,7 +69,7 @@ class _SamatState extends State<Samat> {
             icon: Icon(Icons.settings),
           ),
           BottomNavigationBarItem(
-            label: 'Home',
+            label: 'Aidin',
             icon: Icon(Icons.home),
           ),
         ],
